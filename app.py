@@ -1,4 +1,3 @@
-from turtle import home
 from django.db import DatabaseError
 import streamlit as st
 import pandas as pd
