@@ -2,4 +2,4 @@ pandas
 numpy
 pydeck
 plotly.express
-tkinter 
+tk 
