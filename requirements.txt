@@ -1,0 +1,7 @@
+turtle
+django.db
+streamlit
+pandas
+numpy
+pydeck
+plotly.express
