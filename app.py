@@ -5,7 +5,7 @@ import numpy as np
 import pydeck as pdk
 import plotly.express as px
 
-DATA_URL = ("./Motor_Vehicle_Collisions_-_Crashes.csv")
+DATA_URL = ("https://docs.google.com/spreadsheets/d/e/2PACX-1vRUZasAQKQ5TdmeDuaSmB4RvMoK1mkjhaZGFp_2a5f549X9BOpbeO3tIo3BqRltfgHnjbsKo3E12r_-/pub?output=csv")
 
 st.title("Hello world!")
 
